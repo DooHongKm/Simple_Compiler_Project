@@ -1,0 +1,3 @@
+python syntax_analyzer.py input1.txt
+
+python syntax_analyzer.py input2.txt
